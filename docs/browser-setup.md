@@ -171,7 +171,7 @@ List of devices attached
 emulator-5554 device
 ```
 *   If the AVD does not have chrome (and it probably won't if it just created), you need to install it:
-   * You can get v34.0.1847.114 from http://www.apk4fun.com/apk/1192/
+   * You can get v34.0.1847.114 from http://apk4mod.com/chrome-browser-39-0-2171-93-apk/
    * Once you download the apk, install to your AVD as such:
 
 ```shell
